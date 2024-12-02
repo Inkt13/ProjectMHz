@@ -18461,7 +18461,7 @@
      },
      {
       "Question": "Application software requires system software to function.",
-      "Answer": false,
+      "Answer": true,
       "Team": "Cache Me If You Can",
       "Module": "Software",
       "Topic": "System and Application Software"
